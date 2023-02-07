@@ -6,7 +6,7 @@ import ItemCount from '../ItemCount';
 export const ItemListContainer = () => {
     return (
         <>
-            <Title greeting='Buenass' />
+            <Title greeting='Buenassss' />
             <ItemCount />
         </>
     );
